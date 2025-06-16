@@ -410,5 +410,6 @@ FodyWeavers.xsd
 # Ignore all local history of files
 .history
 .ionide
-
+#Mp3
+*.mp3
 # End of https://www.toptal.com/developers/gitignore/api/csharp,visualstudiocode
