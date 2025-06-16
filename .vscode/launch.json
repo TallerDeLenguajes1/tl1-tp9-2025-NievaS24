@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug LectorTagMP3",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/LectorTagMP3/bin/Debug/net8.0/LectorTagMP3.dll",
+            "cwd": "${workspaceFolder}/LectorTagMP3",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Debug LectorDirectorio",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/LectorDirectorio/bin/Debug/net8.0/LectorDirectorio.dll",
+            "cwd": "${workspaceFolder}/LectorDirectorio",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        }
+    ]
+}
